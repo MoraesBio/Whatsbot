@@ -1,4 +1,5 @@
 # Whatsbot
+Adaptado das informações do canal Hashtag Progrmação do youtube (https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg)
 
 ###Descrição###:
 Bot de envio automático de mensagens para diversos contatos. 
